@@ -1,4 +1,4 @@
-tidypyverse is a humble attempt to create an ecosystem of packages inspired by R's [tidyverse](https://www.tidyverse.org/) in python to make data analysis a enriching experience.
+**tidypyverse88 is a humble attempt to create an ecosystem of packages inspired by R's [tidyverse](https://www.tidyverse.org/) in python to make data analysis an enriching experience.
 
 Projects
 --------
